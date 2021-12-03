@@ -497,6 +497,7 @@ public final class GetuiIntentService extends GTIntentService {
 
 #### 8. 技术支持
 ```
-qq: 651043704  
-wechat: k651043704
+qq: 1276227
+wechat:  zhubanji
+
 ```
